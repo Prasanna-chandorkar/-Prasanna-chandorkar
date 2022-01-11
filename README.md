@@ -1,3 +1,5 @@
 Hi, I'm Prasanna Chandorkar 👋👦💻
-My personal repository to update my Git profile.
+
+Mostly code in C#, Python, nodejs.
+Interested in web development especialyy in React and Angular.
 
